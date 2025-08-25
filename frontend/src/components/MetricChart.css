@@ -1,0 +1,16 @@
+.chart-container {
+    margin-top: 2rem;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .chart-container h3 {
+    margin-top: 0;
+  }
+  
+  .d3-chart {
+    height: 250px;
+    width: 100%;
+  }
