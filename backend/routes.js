@@ -1,4 +1,3 @@
-// backend/routes.js
 const express = require('express');
 
 module.exports = (systemMonitor) => {
