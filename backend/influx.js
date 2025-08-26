@@ -1,4 +1,3 @@
-// backend/influx.js
 const { InfluxDB, Point } = require('@influxdata/influxdb-client');
 const os = require('os');
 require('dotenv').config();
@@ -139,7 +138,7 @@ class Influx {
         },
         error(error) {
           console.error('Error querying historical data:', error);
-          resolve([]); // FIX: Resolve with an empty array instead of rejecting
+          resolve([]); 
         },
         complete() {
           resolve(data);
