@@ -1,4 +1,3 @@
-// backend/monitor.js
 const si = require('systeminformation');
 const os = require('os');
 const Influx = require('./influx');
