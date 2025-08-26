@@ -33,8 +33,9 @@ This project is open source. You are welcome to use, modify, and distribute the 
 
 **Contact**
 
-If you have any questions, suggestions, or would like to contribute, you can reach me at your-email@example.com.
+If you have any questions, suggestions, or would like to contribute, you can reach me at a.vasudevan@wustl.edu
 
 **Demo**
 
 A link to a video demo showcasing the app's features and functionality will be added here soon.
+
